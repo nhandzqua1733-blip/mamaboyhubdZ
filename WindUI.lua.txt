@@ -1,0 +1,19 @@
+repeat task.wait() until game:IsLoaded()
+
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+local PlaceId = game.PlaceId
+
+local function Run()
+    if PlaceId == 18192562963 then --Cdvn
+        loadstring(game:HttpGet("https://arch-http.vercel.app/files/7109021111561714.lua.txt"))()
+    elseif PlaceId == 131623223084840 then -- Song Thần
+        loadstring(game:HttpGet("https://arch-http.vercel.app/files/7826893879332070.lua.txt"))()
+    elseif PlaceId == 2753915549 then -- Blox Fruit
+        loadstring(game:HttpGet("https://arch-http.vercel.app/files/Redlzhub.txt"))()        
+    else
+        loadstring(game:HttpGet("https://arch-http.vercel.app/files/541717955408869.lua.txt"))()
+    end
+end
+
+Run()
