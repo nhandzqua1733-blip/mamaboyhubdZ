@@ -12,12 +12,13 @@ local function Run()
     elseif PlaceId == 124311897657957 then -- Lucky 
         loadstring(game:HttpGet("https://arch-http.vercel.app/files/9212353870077000.lua.txt"))()
     elseif PlaceId == 2753915549 then -- Blox Fruit
-        loadstring(game:HttpGet("https://arch-http.vercel.app/files/9785133191436474.lua.txt"))()        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nhandzqua1733-blip/web/refs/heads/main/2238824677408866.lua.txt"))()        
     else
         loadstring(game:HttpGet("https://arch-http.vercel.app/files/541717955408869.lua.txt"))()
     end
 end
 
 Run()
+
 
 
