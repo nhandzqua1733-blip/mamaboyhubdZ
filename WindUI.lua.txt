@@ -8,7 +8,7 @@ local function Run()
     if PlaceId == 18192562963 then --Cdvn
         loadstring(game:HttpGet("https://arch-http.vercel.app/files/3962293916714682.lua.txt"))()
     elseif PlaceId == 131623223084840 then -- Song Thần
-        loadstring(game:HttpGet("https://arch-http.vercel.app/files/Okdhdjdb"))()
+        loadstring(game:HttpGet("https://arch-http.vercel.app/files/Jbbcbchchchbfb"))()
     elseif PlaceId == 124311897657957 then -- Lucky 
         loadstring(game:HttpGet("https://arch-http.vercel.app/files/9212353870077000.lua.txt"))()
     elseif PlaceId == 2753915549 then -- Blox Fruit
@@ -19,6 +19,7 @@ local function Run()
 end
 
 Run()
+
 
 
 
