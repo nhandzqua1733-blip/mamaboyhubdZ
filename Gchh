@@ -29,7 +29,7 @@ local Settings = {
     AimType = "Leg"
 }
 
-local AdminNames = {"khangggggggggg646"}
+local AdminNames = {"hfj"}
 local AdminUserIds = {}
 
 local function IsAdmin(player)
